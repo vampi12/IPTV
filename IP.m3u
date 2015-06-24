@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-0,SHOWTV
+http://mn-l.mncdn.com:1935/showtv/showtv2/playlist.m3u8
+#EXTINF:-0,ATV
+http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
+#EXTINF:-0,KANAL D
+http://212.224.80.72/S2/HLS_LIVE/kanald/index.m3u8?key=227e63c870cc4ff687f063141aa86d9d&live=true&app=com.kanald&min=0&max=1250
+#EXTINF:-0,KANAL D 2
+http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-0,STARTV
+http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+#EXTINF:-0,STARTV 2
+http://yayin5.canlitv.com:1935/live/startv/playlist.m3u8
+#EXTINF:-0,Sinema 01
+http://37.187.57.123:56000/live/gala1/playlist.m3u8
+#EXTINF:-0,Sinema 02
+http://37.187.57.123:56000/live/gala2/playlist.m3u8
+#EXTINF:-0,Sinema 03
+http://37.187.57.123:56000/live/gala3/playlist.m3u8
+#EXTINF:-0,Sinema 04
+http://37.187.57.123:56000/live/gala4/playlist.m3u8
+#EXTINF:-0,Sinema 05
+http://37.187.57.123:56000/live/gala5/playlist.m3u8
+#EXTINF:-0,Sinema 06
+http://37.187.57.123:56000/live/gala6/playlist.m3u8
+#EXTINF:-0,Sinema 07
+http://37.187.57.123:56000/live/gala7/playlist.m3u8
+#EXTINF:-0,Sinema 08
+http://37.187.57.123:56000/live/gala8/playlist.m3u8
+#EXTINF:-0,Sinema 09
+http://37.187.57.123:56000/live/gala9/playlist.m3u8
+#EXTINF:-0,Sinema 10
+http://37.187.57.123:56000/live/gala10/playlist.m3u8
+#EXTINF:-0,Sinema 11
+http://37.187.57.123:56000/live/gala11/playlist.m3u8
+#EXTINF:-0,Sinema 12
+http://37.187.57.123:56000/live/gala12/playlist.m3u8
+#EXTINF:-0,Sinema 13
+http://37.187.57.123:56000/live/gala13/playlist.m3u8
+#EXTINF:-0,Sinema 14
+http://37.187.57.123:56000/live/gala14/playlist.m3u8
