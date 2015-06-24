@@ -4,9 +4,9 @@ http://mn-l.mncdn.com:1935/showtv/showtv2/playlist.m3u8
 #EXTINF:-0,ATV
 http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
 #EXTINF:-0,KANAL D
-http://212.224.80.72/S2/HLS_LIVE/kanald/index.m3u8?key=227e63c870cc4ff687f063141aa86d9d&live=true&app=com.kanald&min=0&max=1250
-#EXTINF:-0,KANAL D 2
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-0,KANAL D 2
+http://212.224.80.72/S2/HLS_LIVE/kanald/index.m3u8?key=227e63c870cc4ff687f063141aa86d9d&live=true&app=com.kanald&min=0&max=1250
 #EXTINF:-0,STARTV
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:-0,STARTV 2
